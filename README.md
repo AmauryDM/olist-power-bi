@@ -6,10 +6,10 @@ This repository contains the dashboards of a business analysis on the [Brazilian
 
 ## Dashboard pages
 
-The README serves as an introduction to the project. The different pages and their comments are presented in the `dashboard\` folder. One is invited to go through the markdown files explaining each page describing the business analysis of Olist. This project contains the following pages:
+This README serves as an introduction to the project. The different pages and their comments are presented in the `dashboard\` folder. One is invited to go through the markdown files explaining each page describing the business analysis of Olist. This project contains the following pages:
 
-1. **[Sellers](https://github.com/AmauryDM/olist-power-bi/blob/main/dashboard/page-1/page-1.md)**: Performances of each sellers
-2. **[Temporal](https://github.com/AmauryDM/olist-power-bi/blob/main/dashboard/page-2/page-2.md)**: Temporal evolution of data
-3. **[Payments](https://github.com/AmauryDM/olist-power-bi/blob/main/dashboard/page-3/page-3.md)**: Buyers' behaviour
-4. **[Products](https://github.com/AmauryDM/olist-power-bi/blob/main/dashboard/page-4/page-4.md)**: Products insights
-5. **[Returns](https://github.com/AmauryDM/olist-power-bi/blob/main/dashboard/page-5/page-5.md)**: Returns analysis
+1. **[Sellers](https://github.com/AmauryDM/olist-power-bi/blob/main/dashboard/page-1/README.md)**: Performances of each sellers
+2. **[Temporal](https://github.com/AmauryDM/olist-power-bi/blob/main/dashboard/page-2/README.md)**: Temporal evolution of data
+3. **[Payments](https://github.com/AmauryDM/olist-power-bi/blob/main/dashboard/page-3/README.md)**: Buyers' behaviour
+4. **[Products](https://github.com/AmauryDM/olist-power-bi/blob/main/dashboard/page-4/README.md)**: Products insights
+5. **[Returns](https://github.com/AmauryDM/olist-power-bi/blob/main/dashboard/page-5/README.md)**: Returns analysis
